@@ -20,6 +20,6 @@ You can cite this repository using the following BibTeX entry:
 
 ## Table of Contents
 
-- [Peer Grading / Peer Assessment](https://github.com/spneshaei/literature-review-hci-edu/main/topics/peer-grading.md)
-- [Assessment in MOOCs](https://github.com/spneshaei/literature-review-hci-edu/main/topics/mooc-assessment.md)
-- [Automated Grading](https://github.com/spneshaei/literature-review-hci-edu/main/topics/automated-grading.md)
+- [Peer Grading / Peer Assessment](https://github.com/spneshaei/literature-review-hci-edu/blob/main/topics/peer-grading.md)
+- [Assessment in MOOCs](https://github.com/spneshaei/literature-review-hci-edu/blob/main/topics/mooc-assessment.md)
+- [Automated Grading](https://github.com/spneshaei/literature-review-hci-edu/blob/main/topics/automated-grading.md)
