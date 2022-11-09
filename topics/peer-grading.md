@@ -1,18 +1,14 @@
 # Literature Review on Peer Grading / Peer Assessment
 
-This list contains a collection of papers investigating peer grading / peer assessment in educational settings. The sentence used for introducing the papers is not
-necessarily the title of the paper; whenever I thought an excerpt from the abstract (or in open access papers, the body of the paper) can describe
-what the paper is about, I've used the excerpt (in some cases, modified a bit) as the title for the link. Some articles may be duplicate, if the paper specifies
-multiple important points to discuss. You should look at each paper before using them as a citation, and the list has no guarantee to be correct, so use the
-contents of this repository at your own risk.
+This list contains a collection of papers investigating peer grading / peer assessment in educational settings.
 
 ## Table of Contents
 
-- Definition and Background
-- Evaluation and Benefits
-- Anonymity
-- Specific Principles
-- Implementated Systems
+- [Definition and Background](#definition-and-background)
+- [Evaluation and Benefits](#evaluation-and-benefits)
+- [Anonymity](#anonymity)
+- [Specific Principles](#specific-principles)
+- [Implementated Systems](#implemented-systems)
 
 ## Definition and Background
 
